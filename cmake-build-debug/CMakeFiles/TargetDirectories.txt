@@ -1,0 +1,3 @@
+/Users/admin/Desktop/Junyi-test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/admin/Desktop/Junyi-test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/admin/Desktop/Junyi-test/cmake-build-debug/CMakeFiles/Junyi_test.dir
